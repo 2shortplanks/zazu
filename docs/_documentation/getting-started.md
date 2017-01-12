@@ -32,3 +32,10 @@ version. It's located in your home directory under `~/.zazurc.json` (or
 `C:\Users\YOUR_NAME\.zazurc.json` for Windows). Here, you can add some new
 plugins and remove ones you don't want. There is more information in our
 documentation on [Personal Configuration](/documentation/configuration/).
+
+## Moving Zazu
+
+On some Linux configurations, Zazu doesn't position itself correctly when it
+first opens. To fix this, parts of your selected theme have "draggable" regions,
+which allow you to drag Zazu. Since Zazu remembers where it was last opened,
+it'll stay in that position.
